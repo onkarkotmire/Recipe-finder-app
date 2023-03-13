@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+
+
+.box{
+  width: 400px;
+  height: 300px;
+  border: 2px solid black;
+}
